@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+		elementFormDefault="qualified" 
+		attributeFormDefault="qualified"
+        targetNamespace="http://krams915.blogspot.com/ws/schema/oss"
+        xmlns:tns="http://krams915.blogspot.com/ws/schema/oss">
+        
+    <element name="id">
+        <simpleType>
+            <restriction base="string">
+                <pattern value="([0-9])+"/>
+                <minLength value="7"/>
+            </restriction>
+        </simpleType>
+    </element>
+        
+	<element name="keyword">
+        <simpleType>
+            <restriction base="string">
+                 <enumeration value="SALES"/>
+      			 <enumeration value="INVENTORY"/>
+      			 <enumeration value="ORDER"/>
+            </restriction>
+        </simpleType>
+    </element>
+    
+    <element name="branch">
+        <simpleType>
+            <restriction base="string">
+                <pattern value="([A-Z]|[a-z]|\s|\.)+"/>
+                <minLength value="5"/>
+            </restriction>
+        </simpleType>
+    </element>
+    
+    <element name="amount">
+        <simpleType>
+            <restriction base="double"/>
+        </simpleType>
+    </element>
+    
+    <element name="remarks">
+        <simpleType>
+            <restriction base="string">
+                <pattern value="([A-Z]|[a-z]|\s|\.)+"/>
+                <minLength value="3"/>
+            </restriction>
+        </simpleType>
+    </element>
+    
+    <element name="product">
+        <simpleType>
+            <restriction base="string">
+                <pattern value="([A-Z]|[a-z]|\s|\.)+"/>
+                <minLength value="5"/>
+            </restriction>
+        </simpleType>
+    </element>
+    
+    <element name="beginning">
+        <simpleType>
+            <restriction base="integer"/>
+        </simpleType>
+    </element>
+    
+    <element name="ending">
+        <simpleType>
+            <restriction base="integer"/>
+        </simpleType>
+    </element>
+    
+    <element name="quantity">
+        <simpleType>
+            <restriction base="integer"/>
+        </simpleType>
+    </element>
+    
+    <element name="code">
+        <simpleType>
+            <restriction base="string">
+                 <enumeration value="SUCCESS"/>
+      			 <enumeration value="FAILURE"/>
+            </restriction>
+        </simpleType>
+    </element>
+    
+    <element name="description">
+        <simpleType >
+            <restriction base="string" >
+            </restriction>
+        </simpleType>
+    </element>
+    
+	<complexType name="entity">
+		<complexContent>
+			<restriction base="anyType">
+				<sequence>
+					<element ref="tns:id" tns:minOccurs="1" tns:maxOccurs="1" />
+					<element ref="tns:keyword" tns:minOccurs="1" tns:maxOccurs="1" />
+					<element ref="tns:branch" tns:minOccurs="1" tns:maxOccurs="1" />
+				</sequence>
+			</restriction>
+		</complexContent>
+	</complexType>
+	
+	<element name="sales">
+		<complexType>
+			<complexContent>
+				<extension base="tns:entity">
+					<sequence>
+						<element ref="tns:amount" tns:minOccurs="1" tns:maxOccurs="1" />
+						<element ref="tns:remarks" tns:minOccurs="1" tns:maxOccurs="1" />
+					</sequence>
+				</extension>
+			</complexContent>
+		</complexType>
+    </element>
+
+	<element name="inventory">
+		<complexType>
+			<complexContent>
+				<extension base="tns:entity">
+					<sequence>
+						<element ref="tns:product" tns:minOccurs="1" tns:maxOccurs="1" />
+						<element ref="tns:beginning" tns:minOccurs="1" tns:maxOccurs="1" />
+						<element ref="tns:ending" tns:minOccurs="1" tns:maxOccurs="1" />
+					</sequence>
+				</extension>
+			</complexContent>
+		</complexType>
+	</element>
+
+	<element name="order">
+		<complexType>
+			<complexContent>
+				<extension base="tns:entity">
+					<sequence>
+						<element ref="tns:product" tns:minOccurs="1" tns:maxOccurs="1" />
+						<element ref="tns:quantity" tns:minOccurs="1" tns:maxOccurs="1" />
+					</sequence>
+				</extension>
+			</complexContent>
+		</complexType>
+	</element>
+
+	<complexType name="record">
+		<complexContent>
+			<restriction base="anyType">
+				<choice>
+					<element ref="tns:sales" tns:minOccurs="0" tns:maxOccurs="unbounded" />
+					<element ref="tns:inventory" tns:minOccurs="0" tns:maxOccurs="unbounded" />
+					<element ref="tns:order" tns:minOccurs="0" tns:maxOccurs="unbounded" />
+				</choice>
+			</restriction>
+		</complexContent>
+	</complexType>
+    	
+    <element name="addListRequest">
+		<complexType>
+			<complexContent>
+				<restriction base="anyType">
+					<sequence>
+						<element name="record" type="tns:record"  maxOccurs="unbounded"/>
+					</sequence>
+				</restriction>
+			</complexContent>
+		</complexType>
+    </element>
+    
+    <element name="addListResponse" tns:minOccurs="1" tns:maxOccurs="1" >
+    	<complexType>
+			<sequence>
+				<element ref="tns:code" tns:minOccurs="1" tns:maxOccurs="1"/>
+				<element ref="tns:description" tns:minOccurs="1" tns:maxOccurs="1"/>
+			</sequence>
+		</complexType>
+    </element>
+</schema>

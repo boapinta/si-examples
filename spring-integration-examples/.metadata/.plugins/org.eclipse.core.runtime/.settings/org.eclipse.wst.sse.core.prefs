@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+task-tag-projects-already-scanned=junit-spring-integration-webservice-master,amqp,basic-samples,control-bus,enricher,feed,file,ftp,helloworld,http,jdbc,jms,jmx,jpa,mail,oddeven,quote,sftp,tcp-client-server,testing-examples

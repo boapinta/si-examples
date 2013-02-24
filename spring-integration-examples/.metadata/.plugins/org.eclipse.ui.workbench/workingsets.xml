@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1361612763463_2" label="basic" name="basic">
+<item elementID="=junit-spring-integration-webservice-master" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/basic-samples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/amqp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/control-bus" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/enricher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/feed" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/file" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ftp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helloworld" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jms" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jmx" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mail" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/oddeven" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/quote" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sftp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tcp-client-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/testing-examples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/twitter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ws-inbound-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ws-outbound-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xml" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xmpp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xquery" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1361556384498_0" label="Window Working Set" name="Aggregate for window 1361556384495"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1361612752824_1" label="Window Working Set" name="Aggregate for window 1361612752824"/>
+</workingSetManager>

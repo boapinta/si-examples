@@ -1,0 +1,11 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/amqp/src/main/resources/META-INF/spring/integration/spring-integration-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloworld/src/main/resources/META-INF/spring/integration/delay.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloworld/src/main/resources/META-INF/spring/integration/helloWorldDemo.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/http/src/main/resources/META-INF/spring/integration/http-outbound-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/http/src/main/webapp/WEB-INF/servlet-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/junit-spring-integration-webservice-master/src/main/resources/META-INF/spring/test-webservice/test-webservice-integration-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/junit-spring-integration-webservice-master/src/test/resources/config/test-webservice-beans-config-test.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ws-inbound-gateway/src/main/resources/META-INF/spring/integration/inbound-gateway-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ws-inbound-gateway/src/main/webapp/WEB-INF/spring-ws-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ws-outbound-gateway/src/main/resources/META-INF/spring/integration/temperatureConversion.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

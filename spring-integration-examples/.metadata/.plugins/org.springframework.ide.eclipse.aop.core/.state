@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="mail"/>
+<aop-project name="jmx"/>
+<aop-project name="file"/>
+<aop-project name="jpa"/>
+<aop-project name="ws-inbound-gateway"/>
+<aop-project name="enricher"/>
+<aop-project name="feed"/>
+<aop-project name="oddeven"/>
+<aop-project name="junit-spring-integration-webservice-master"/>
+<aop-project name="xmpp"/>
+<aop-project name="testing-examples"/>
+<aop-project name="amqp"/>
+<aop-project name="http"/>
+<aop-project name="tcp-client-server"/>
+<aop-project name="helloworld"/>
+<aop-project name="xquery"/>
+<aop-project name="twitter"/>
+<aop-project name="ws-outbound-gateway"/>
+<aop-project name="ftp"/>
+<aop-project name="jms"/>
+<aop-project name="control-bus"/>
+<aop-project name="sftp"/>
+<aop-project name="jdbc"/>
+<aop-project name="xml"/>
+<aop-project name="quote"/>
+</aop-reference-model>

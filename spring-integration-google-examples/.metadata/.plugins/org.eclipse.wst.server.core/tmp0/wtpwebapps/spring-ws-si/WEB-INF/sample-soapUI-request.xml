@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:oss="http://krams915.blogspot.com/ws/schema/oss">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <oss:addListRequest>
+         <oss:record>
+            <oss:sales>
+               <oss:id>1234567</oss:id>
+               <oss:keyword>SALES</oss:keyword>
+               <oss:branch>Branch A</oss:branch>
+               <oss:amount>3000.50</oss:amount>
+               <oss:remarks>Pending approval</oss:remarks>
+            </oss:sales>
+         </oss:record>
+         <oss:record>
+            <oss:inventory>
+               <oss:id>1234568</oss:id>
+               <oss:keyword>INVENTORY</oss:keyword>
+               <oss:branch>Branch A</oss:branch>
+               <oss:product>Printer</oss:product>
+               <oss:beginning>30</oss:beginning>
+               <oss:ending>10</oss:ending>
+            </oss:inventory>
+         </oss:record>
+         <oss:record>
+            <oss:order>
+               <oss:id>1234569</oss:id>
+               <oss:keyword>ORDER</oss:keyword>
+               <oss:branch>Branch B</oss:branch>
+               <oss:product>Keyboard</oss:product>
+               <oss:quantity>50</oss:quantity>
+            </oss:order>
+         </oss:record>
+      </oss:addListRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

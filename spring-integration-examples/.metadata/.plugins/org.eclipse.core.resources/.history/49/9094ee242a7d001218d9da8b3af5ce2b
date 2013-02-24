@@ -1,0 +1,29 @@
+package com.goSmarter.webservice.ws;
+
+import javax.xml.bind.JAXBContext;
+
+import net.gosmarter.it.enterprise.data.v1.ObjectFactory;
+
+import org.springframework.beans.factory.FactoryBean;
+
+public class MarshallerFactory implements FactoryBean<JAXBContext> {
+
+	@Override
+	public Object getObject() throws Exception {
+		ClassLoader cl = ObjectFactory.class.getClassLoader();
+		JAXBContext jc = JAXBContext.newInstance("net.gosmarter.it.enterprise.contract.testservice.v1", cl);
+		return jc;
+	}
+
+	@Override
+	public Class<JAXBContext> getObjectType() {
+		// TODO Auto-generated method stub
+		return JAXBContext.class;
+	}
+
+	@Override
+	public boolean isSingleton() {
+		return true;
+	}
+
+}

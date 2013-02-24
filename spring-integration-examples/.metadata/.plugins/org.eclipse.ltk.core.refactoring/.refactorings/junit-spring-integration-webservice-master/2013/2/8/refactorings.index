@@ -1,0 +1,4 @@
+1361557494987	Delete element
+1361565303262	Rename local variable 'responsePayload'
+1361565366050	Extract method 'buildRequestPayload'
+1361565390574	Extract method 'buildExpectedResponsePayload'

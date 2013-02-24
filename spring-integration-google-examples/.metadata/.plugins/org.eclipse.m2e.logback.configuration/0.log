@@ -1,0 +1,637 @@
+2013-02-22 18:14:16,595 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2013-02-22 18:14:16,673 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-02-22 18:14:16,678 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-02-22 18:14:16,683 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-02-22 18:14:36,376 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:14:37,060 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:40,755 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:41,597 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2013-02-22 18:14:41,601 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2013-02-22 18:14:41,855 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:42,148 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:42,394 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:42,587 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:43,183 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:43,742 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:44,191 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:44,671 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:45,125 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:45,265 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.pom
+2013-02-22 18:14:45,267 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.pom
+2013-02-22 18:14:45,701 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:45,978 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/jstl/jstl/1.1.2/jstl-1.1.2.pom
+2013-02-22 18:14:45,979 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jstl/jstl/1.1.2/jstl-1.1.2.pom
+2013-02-22 18:14:46,174 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:14:46,383 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.1.2/jstl-1.1.2.pom
+2013-02-22 18:14:46,385 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.1.2/jstl-1.1.2.pom
+2013-02-22 18:14:50,742 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:05,313 [New I/O client worker #14-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2013-02-22 18:15:05,314 [New I/O client worker #14-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2013-02-22 18:15:05,416 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:05,619 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2013-02-22 18:15:05,655 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2013-02-22 18:15:05,846 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:05,937 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2013-02-22 18:15:05,938 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2013-02-22 18:15:06,160 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:06,354 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.pom
+2013-02-22 18:15:06,399 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.pom
+2013-02-22 18:15:06,624 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:07,053 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:11,158 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2013-02-22 18:15:16,360 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2013-02-22 18:15:16,812 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:17,001 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2013-02-22 18:15:17,100 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2013-02-22 18:15:17,262 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:17,422 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:17,699 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:17,938 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.pom
+2013-02-22 18:15:17,940 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.pom
+2013-02-22 18:15:18,052 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:18,339 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.pom
+2013-02-22 18:15:18,340 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.pom
+2013-02-22 18:15:18,687 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:15:18,811 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:19,161 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,337 [New I/O client worker #25-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,341 [New I/O client worker #25-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.jar
+2013-02-22 18:15:19,354 [New I/O client worker #25-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,361 [New I/O client worker #25-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,363 [New I/O client worker #25-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.14/log4j-1.2.14.jar
+2013-02-22 18:15:19,366 [New I/O client worker #25-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,394 [New I/O client worker #25-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+2013-02-22 18:15:19,456 [New I/O client worker #25-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,460 [New I/O client worker #25-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,467 [New I/O client worker #25-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.jar
+2013-02-22 18:15:19,473 [New I/O client worker #25-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,476 [New I/O client worker #25-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.1.2/jstl-1.1.2.jar
+2013-02-22 18:15:19,477 [New I/O client worker #25-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2013-02-22 18:15:19,486 [New I/O client worker #25-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2013-02-22 18:15:20,636 [New I/O client worker #25-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/jstl/1.1.2/jstl-1.1.2.jar
+2013-02-22 18:15:20,644 [New I/O client worker #25-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.jar
+2013-02-22 18:15:20,833 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.jar
+2013-02-22 18:15:21,637 [New I/O client worker #25-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2013-02-22 18:15:25,965 [New I/O client worker #25-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.0.5.RELEASE/spring-tx-3.0.5.RELEASE.jar
+2013-02-22 18:15:26,296 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.5.RELEASE/spring-jdbc-3.0.5.RELEASE.jar
+2013-02-22 18:15:28,020 [New I/O client worker #25-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.jar
+2013-02-22 18:15:28,104 [New I/O client worker #25-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+2013-02-22 18:15:28,206 [New I/O client worker #25-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2013-02-22 18:15:29,157 [New I/O client worker #25-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.jar
+2013-02-22 18:15:29,284 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2013-02-22 18:15:29,662 [New I/O client worker #25-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2013-02-22 18:15:30,931 [New I/O client worker #25-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2013-02-22 18:15:31,149 [New I/O client worker #25-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2013-02-22 18:15:31,229 [New I/O client worker #25-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2013-02-22 18:15:31,937 [New I/O client worker #25-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2013-02-22 18:15:31,972 [New I/O client worker #25-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.14/log4j-1.2.14.jar
+2013-02-22 18:15:32,748 [New I/O client worker #25-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.0.5.RELEASE/spring-orm-3.0.5.RELEASE.jar
+2013-02-22 18:15:32,818 [New I/O client worker #25-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2013-02-22 18:15:35,364 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:15:35,408 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:35,622 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.pom
+2013-02-22 18:15:35,623 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.pom
+2013-02-22 18:15:35,962 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:36,361 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/2.0.3.RELEASE/spring-integration-core-2.0.3.RELEASE.pom
+2013-02-22 18:15:36,362 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/2.0.3.RELEASE/spring-integration-core-2.0.3.RELEASE.pom
+2013-02-22 18:15:36,952 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:37,561 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-file/2.0.3.RELEASE/spring-integration-file-2.0.3.RELEASE.pom
+2013-02-22 18:15:37,562 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-file/2.0.3.RELEASE/spring-integration-file-2.0.3.RELEASE.pom
+2013-02-22 18:15:37,735 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:38,053 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-stream/2.0.3.RELEASE/spring-integration-stream-2.0.3.RELEASE.pom
+2013-02-22 18:15:38,054 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-stream/2.0.3.RELEASE/spring-integration-stream-2.0.3.RELEASE.pom
+2013-02-22 18:15:38,285 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:41,681 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-jdbc/2.0.3.RELEASE/spring-integration-jdbc-2.0.3.RELEASE.pom
+2013-02-22 18:15:41,682 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-jdbc/2.0.3.RELEASE/spring-integration-jdbc-2.0.3.RELEASE.pom
+2013-02-22 18:15:46,943 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:47,317 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ws/2.0.3.RELEASE/spring-integration-ws-2.0.3.RELEASE.pom
+2013-02-22 18:15:47,318 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ws/2.0.3.RELEASE/spring-integration-ws-2.0.3.RELEASE.pom
+2013-02-22 18:15:47,631 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:52,126 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.pom
+2013-02-22 18:15:52,127 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.pom
+2013-02-22 18:15:52,341 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:15:57,236 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-parent/1.5.9/spring-ws-parent-1.5.9.pom
+2013-02-22 18:16:14,097 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-parent/1.5.9/spring-ws-parent-1.5.9.pom
+2013-02-22 18:16:14,402 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:14,652 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/1.5.9/spring-xml-1.5.9.pom
+2013-02-22 18:16:14,653 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/1.5.9/spring-xml-1.5.9.pom
+2013-02-22 18:16:15,054 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:15,167 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:15,384 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-oxm/1.5.9/spring-oxm-1.5.9.pom
+2013-02-22 18:16:15,419 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-oxm/1.5.9/spring-oxm-1.5.9.pom
+2013-02-22 18:16:15,633 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:18,440 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/2.5.6/spring-web-2.5.6.pom
+2013-02-22 18:16:18,441 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/2.5.6/spring-web-2.5.6.pom
+2013-02-22 18:16:18,796 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:19,179 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/2.5.6/spring-webmvc-2.5.6.pom
+2013-02-22 18:16:19,180 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/2.5.6/spring-webmvc-2.5.6.pom
+2013-02-22 18:16:19,380 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:23,972 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.pom
+2013-02-22 18:16:23,973 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.pom
+2013-02-22 18:16:24,130 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:24,410 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:29,091 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-http/2.0.3.RELEASE/spring-integration-http-2.0.3.RELEASE.pom
+2013-02-22 18:16:29,092 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-http/2.0.3.RELEASE/spring-integration-http-2.0.3.RELEASE.pom
+2013-02-22 18:16:29,696 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:16:29,741 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:16:30,142 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.jar
+2013-02-22 18:16:30,144 [New I/O client worker #42-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-jdbc/2.0.3.RELEASE/spring-integration-jdbc-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,147 [New I/O client worker #42-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/1.5.9/spring-xml-1.5.9.jar
+2013-02-22 18:16:30,147 [New I/O client worker #42-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/2.0.3.RELEASE/spring-integration-core-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,154 [New I/O client worker #42-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.jar
+2013-02-22 18:16:30,154 [New I/O client worker #42-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-stream/2.0.3.RELEASE/spring-integration-stream-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,156 [New I/O client worker #42-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-oxm/1.5.9/spring-oxm-1.5.9.jar
+2013-02-22 18:16:30,165 [New I/O client worker #42-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-file/2.0.3.RELEASE/spring-integration-file-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,169 [New I/O client worker #42-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ws/2.0.3.RELEASE/spring-integration-ws-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,283 [New I/O client worker #42-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-stream/2.0.3.RELEASE/spring-integration-stream-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,464 [New I/O client worker #42-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-ws/2.0.3.RELEASE/spring-integration-ws-2.0.3.RELEASE.jar
+2013-02-22 18:16:30,473 [New I/O client worker #42-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-http/2.0.3.RELEASE/spring-integration-http-2.0.3.RELEASE.jar
+2013-02-22 18:16:34,640 [New I/O client worker #42-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-jdbc/2.0.3.RELEASE/spring-integration-jdbc-2.0.3.RELEASE.jar
+2013-02-22 18:16:34,645 [New I/O client worker #42-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-http/2.0.3.RELEASE/spring-integration-http-2.0.3.RELEASE.jar
+2013-02-22 18:16:34,699 [New I/O client worker #42-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-file/2.0.3.RELEASE/spring-integration-file-2.0.3.RELEASE.jar
+2013-02-22 18:16:34,990 [New I/O client worker #42-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-oxm/1.5.9/spring-oxm-1.5.9.jar
+2013-02-22 18:16:35,061 [New I/O client worker #42-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/1.5.9/spring-xml-1.5.9.jar
+2013-02-22 18:16:35,255 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-oxm/3.0.5.RELEASE/spring-oxm-3.0.5.RELEASE.jar
+2013-02-22 18:16:35,814 [New I/O client worker #42-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.jar
+2013-02-22 18:18:42,287 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2013-02-22 18:18:42,310 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-02-22 18:18:42,312 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-02-22 18:18:42,314 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-02-22 18:18:48,547 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:18:49,031 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:18:49,124 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:18:49,433 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:18:49,601 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:18:49,678 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:18:49,831 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:18:49,935 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-core/2.0.3.RELEASE/spring-integration-core-2.0.3.RELEASE.jar
+2013-02-22 18:18:49,998 [New I/O client worker #3-1] WARN  c.n.h.c.p.n.NettyAsyncHttpProvider - Unexpected error on close
+java.lang.IllegalStateException: An Executor cannot be shut down from the thread acquired from itself.  Please make sure you are not calling releaseExternalResources() from an I/O worker thread.
+	at org.jboss.netty.util.internal.ExecutorUtil.terminate(ExecutorUtil.java:71) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioClientSocketChannelFactory.releaseExternalResources(NioClientSocketChannelFactory.java:143) ~[netty-3.2.5.Final.jar:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.close(NettyAsyncHttpProvider.java:757) [async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.AsyncHttpClient.close(AsyncHttpClient.java:360) [async-http-client-1.6.5.jar:na]
+	at org.sonatype.aether.connector.async.AsyncRepositoryConnector$GetTask$1.onThrowable(AsyncRepositoryConnector.java:672) [aether-connector-asynchttpclient-1.13.1.jar:na]
+	at com.ning.http.client.providers.netty.NettyResponseFuture.getContent(NettyResponseFuture.java:248) [async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.providers.netty.NettyResponseFuture.done(NettyResponseFuture.java:269) [async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.markAsDone(NettyAsyncHttpProvider.java:1560) [async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.finishUpdate(NettyAsyncHttpProvider.java:1577) [async-http-client-1.6.5.jar:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.messageReceived(NettyAsyncHttpProvider.java:1252) [async-http-client-1.6.5.jar:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleUpstream(ChunkedWriteHandler.java:149) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:302) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.unfoldAndFireMessageReceived(ReplayingDecoder.java:522) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.callDecode(ReplayingDecoder.java:506) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.messageReceived(ReplayingDecoder.java:443) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleUpstream(HttpClientCodec.java:77) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:274) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:261) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:349) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108) [netty-3.2.5.Final.jar:na]
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:44) [netty-3.2.5.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_10]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_10]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_10]
+2013-02-22 18:18:50,000 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.jar
+2013-02-22 18:18:54,707 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-02-22 18:18:54,910 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:18:54,973 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:18:55,213 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:18:55,342 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.0.0.RELEASE/spring-ws-core-2.0.0.RELEASE.pom
+2013-02-22 18:18:55,344 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.0.0.RELEASE/spring-ws-core-2.0.0.RELEASE.pom
+2013-02-22 18:18:55,879 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:18:59,420 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-parent/2.0.0.RELEASE/spring-ws-parent-2.0.0.RELEASE.pom
+2013-02-22 18:18:59,497 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-parent/2.0.0.RELEASE/spring-ws-parent-2.0.0.RELEASE.pom
+2013-02-22 18:18:59,989 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:19:24,202 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.0.0.RELEASE/spring-xml-2.0.0.RELEASE.pom
+2013-02-22 18:19:24,206 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.0.0.RELEASE/spring-xml-2.0.0.RELEASE.pom
+2013-02-22 18:19:24,507 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:24,557 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:19:24,826 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.0.0.RELEASE/spring-ws-core-2.0.0.RELEASE.jar
+2013-02-22 18:19:28,429 [New I/O client worker #8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.0.0.RELEASE/spring-xml-2.0.0.RELEASE.jar
+2013-02-22 18:19:28,779 [New I/O client worker #8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.0.0.RELEASE/spring-xml-2.0.0.RELEASE.jar
+2013-02-22 18:19:29,745 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.0.0.RELEASE/spring-ws-core-2.0.0.RELEASE.jar
+2013-02-22 18:19:30,356 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-02-22 18:19:33,831 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:34,027 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:34,261 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:35,411 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-si-amqp-ws/src/main/java
+2013-02-22 18:19:35,412 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-si-amqp-ws/src/main/resources
+2013-02-22 18:19:35,413 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-si-amqp-ws/src/test/java
+2013-02-22 18:19:35,684 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:19:35,828 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:35,970 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:19:36,136 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:36,290 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-ws-si/src/main/java
+2013-02-22 18:19:36,290 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-ws-si/src/main/resources
+2013-02-22 18:19:36,291 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-ws-si/src/test/java
+2013-02-22 18:19:36,346 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:19:36,496 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:36,654 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/main/java
+2013-02-22 18:19:36,654 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-rabbitmq-producer/src/main/resources
+2013-02-22 18:19:36,655 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/test/java
+2013-02-22 18:19:36,920 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 50 sec
+2013-02-22 18:19:38,420 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:38,703 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:38,956 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:39,706 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:19:39,706 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-02-22 18:19:41,689 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:19:41,793 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:41,907 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:42,222 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:19:42,229 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:19:42,248 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:19:42,249 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:19:43,216 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:19:43,408 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:43,610 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:19:43,783 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:19:43,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:19:43,789 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:19:43,790 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:20:40,848 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:20:41,003 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:20:41,195 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:20:41,452 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:20:41,482 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:20:41,485 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:20:41,486 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:21:46,256 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:21:46,400 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:21:46,553 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:21:46,725 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:21:46,726 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:21:46,731 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:21:46,732 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:22:30,718 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:22:30,865 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:22:30,970 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:22:31,086 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:22:31,274 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/main/java
+2013-02-22 18:22:31,274 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-rabbitmq-producer/src/main/resources
+2013-02-22 18:22:31,275 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/test/java
+2013-02-22 18:22:31,534 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-02-22 18:22:33,085 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:22:33,258 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:22:33,371 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:22:33,526 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:33,537 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:22:33,562 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:33,565 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:22:33,566 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rabbitmq-producer
+2013-02-22 18:22:33,568 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rabbitmq-producer
+2013-02-22 18:22:33,587 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,037 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,041 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:22:50,045 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,048 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:22:50,082 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,086 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:22:50,089 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,092 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:22:50,134 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,138 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:22:50,141 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:22:50,145 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:23:06,231 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:23:06,322 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:23:06,432 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:06,538 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:06,682 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/main/java
+2013-02-22 18:23:06,683 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-rabbitmq-producer/src/main/resources
+2013-02-22 18:23:06,684 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/test/java
+2013-02-22 18:23:06,891 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-02-22 18:23:07,719 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:23:07,831 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:07,950 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:08,156 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:08,159 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:23:08,165 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:08,166 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:23:08,167 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rabbitmq-producer
+2013-02-22 18:23:08,167 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rabbitmq-producer
+2013-02-22 18:23:08,185 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:33,837 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:23:33,916 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:23:34,055 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:34,071 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:23:37,453 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.jar
+2013-02-22 18:23:37,832 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/1.5.9/spring-ws-core-1.5.9.jar
+2013-02-22 18:23:38,014 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:23:38,082 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:38,224 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:38,421 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:38,653 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-si-amqp-ws/src/main/java
+2013-02-22 18:23:38,653 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-si-amqp-ws/src/main/resources
+2013-02-22 18:23:38,654 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-si-amqp-ws/src/test/java
+2013-02-22 18:23:38,882 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2013-02-22 18:23:42,616 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:23:42,749 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:42,883 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:23:43,029 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:43,031 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:23:43,036 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:43,036 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:23:43,037 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-si-amqp-ws
+2013-02-22 18:23:43,037 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-si-amqp-ws
+2013-02-22 18:23:43,043 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:43,080 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:43,081 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:23:43,083 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:23:43,084 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:31:47,077 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:31:47,157 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:31:47,273 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:31:47,380 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:31:47,514 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/main/java
+2013-02-22 18:31:47,515 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-rabbitmq-producer/src/main/resources
+2013-02-22 18:31:47,515 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/test/java
+2013-02-22 18:31:47,716 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-02-22 18:31:48,801 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:31:48,942 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:31:49,059 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:31:49,188 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:31:49,190 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:31:49,194 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:31:49,195 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:31:49,195 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rabbitmq-producer
+2013-02-22 18:31:49,196 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rabbitmq-producer
+2013-02-22 18:31:49,205 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:32:08,662 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer
+2013-02-22 18:32:08,663 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2013-02-22 18:32:14,855 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:32:14,860 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:32:14,882 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:32:14,885 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:32:34,623 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer
+2013-02-22 18:32:34,624 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-02-22 18:34:54,322 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:34:54,325 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:34:54,331 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:34:54,331 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:34:54,804 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:34:54,806 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:34:54,810 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:34:54,811 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:34:55,019 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:34:55,021 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:34:55,028 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:34:55,029 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:35:34,516 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:35:34,637 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:35:34,774 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:35:34,952 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:35:34,954 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:35:34,960 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:35:34,961 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:35:44,664 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:35:44,747 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:35:44,854 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:35:44,955 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:35:45,098 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/main/java
+2013-02-22 18:35:45,099 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-rabbitmq-producer/src/main/resources
+2013-02-22 18:35:45,099 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rabbitmq-producer/src/test/java
+2013-02-22 18:35:45,307 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-02-22 18:36:01,805 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:36:01,937 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:36:02,060 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:36:02,213 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,217 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:36:02,222 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,223 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:36:02,224 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rabbitmq-producer
+2013-02-22 18:36:02,224 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rabbitmq-producer
+2013-02-22 18:36:02,243 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,279 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,280 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:36:02,283 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:36:02,300 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,301 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:36:02,303 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:36:02,304 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:36:20,987 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer
+2013-02-22 18:36:20,988 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-02-22 18:37:48,462 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-02-22 18:37:48,539 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:37:48,697 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:37:48,845 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:37:48,996 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-si-amqp-ws/src/main/java
+2013-02-22 18:37:48,996 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-si-amqp-ws/src/main/resources
+2013-02-22 18:37:48,997 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-si-amqp-ws/src/test/java
+2013-02-22 18:37:49,217 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-02-22 18:38:03,169 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:38:03,313 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:38:03,453 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:38:03,594 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:38:03,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:38:03,599 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:38:03,600 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:38:03,600 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-si-amqp-ws
+2013-02-22 18:38:03,601 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-si-amqp-ws
+2013-02-22 18:38:03,607 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:38:05,814 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws
+2013-02-22 18:38:05,814 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-02-22 18:38:25,346 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-si-amqp-ws
+2013-02-22 18:38:30,374 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:38:30,528 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:38:30,705 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:38:30,854 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:38:30,856 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:38:30,860 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:38:30,861 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:38:57,465 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer
+2013-02-22 18:38:57,465 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-02-22 18:39:06,345 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:06,346 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:39:06,349 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:06,350 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:39:23,788 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rabbitmq-producer
+2013-02-22 18:39:23,837 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-si-amqp-ws
+2013-02-22 18:39:23,878 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-ws-si
+2013-02-22 18:39:24,438 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:39:24,553 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:39:24,664 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:39:24,784 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:24,786 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:39:24,792 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:24,792 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:39:37,829 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:39:37,952 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:39:38,094 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:39:38,227 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:38,229 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:39:38,233 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:38,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:39:38,526 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:39:38,650 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:39:38,786 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:39:38,913 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:38,915 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:39:38,919 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:39:38,920 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:41:27,122 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rabbitmq-producer
+2013-02-22 18:41:27,157 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-si-amqp-ws
+2013-02-22 18:41:27,184 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-ws-si
+2013-02-22 18:41:27,805 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:41:27,907 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:41:28,034 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:41:28,161 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:41:28,163 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:41:28,169 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:41:28,170 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:41:30,520 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:41:30,640 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:41:30,782 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:41:30,918 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:41:30,919 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:41:30,924 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:41:30,924 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:41:31,210 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:41:31,318 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:41:31,477 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:41:31,621 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:41:31,626 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:41:31,638 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:41:31,642 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:42:23,739 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:42:23,844 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:42:23,941 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:42:24,101 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:42:24,102 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:42:24,105 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:42:24,105 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:49:25,162 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:50:19,863 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:50:20,076 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:50:20,390 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:50:20,608 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:50:20,893 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:50:21,529 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:50:21,536 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:50:21,555 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:50:21,556 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:51:08,105 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:51:08,339 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:08,548 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:08,740 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:08,742 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:51:08,746 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:08,747 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:51:09,165 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:51:09,349 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:09,562 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:09,750 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:09,752 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:51:09,758 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:09,759 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:51:11,039 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:51:11,173 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:11,343 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:11,501 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:11,503 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:51:11,510 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:11,510 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:51:14,099 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:51:14,260 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:14,446 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:14,618 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:14,620 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:51:14,624 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:14,625 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:51:14,920 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:51:15,072 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:15,251 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:15,420 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:15,421 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:51:15,426 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:15,427 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:51:16,268 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:51:16,401 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:16,518 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:16,671 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:16,674 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:51:16,681 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:16,681 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:51:18,624 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:51:18,771 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:18,921 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:19,084 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:19,086 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:51:19,094 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:19,095 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:51:19,397 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:51:19,574 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:19,751 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:51:19,920 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:19,922 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:51:19,927 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:51:19,927 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:54:57,350 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:54:57,460 [Worker-16] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:55:01,851 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/3.0.2/amqp-client-3.0.2.pom
+2013-02-22 18:55:01,857 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/3.0.2/amqp-client-3.0.2.pom
+2013-02-22 18:55:02,402 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:02,416 [Worker-16] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2013-02-22 18:55:02,943 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/3.0.2/amqp-client-3.0.2.jar
+2013-02-22 18:55:03,683 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/rabbitmq/amqp-client/3.0.2/amqp-client-3.0.2.jar
+2013-02-22 18:55:05,020 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:05,161 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:05,166 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:55:05,169 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:05,170 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:55:05,170 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rabbitmq-producer
+2013-02-22 18:55:05,172 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rabbitmq-producer
+2013-02-22 18:55:05,181 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:06,450 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:06,455 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:55:06,461 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:06,462 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:55:18,004 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rabbitmq-producer
+2013-02-22 18:55:18,037 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-si-amqp-ws
+2013-02-22 18:55:18,062 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-ws-si
+2013-02-22 18:55:19,039 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:55:19,156 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:19,279 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:19,416 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:19,418 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:55:19,425 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:19,426 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:55:28,634 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-si-amqp-ws:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\pom.xml.
+2013-02-22 18:55:28,784 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:28,954 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:29,123 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:29,125 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:55:29,130 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:29,131 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-si-amqp-ws\src\test\resources
+2013-02-22 18:55:29,363 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-ws-si:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\pom.xml.
+2013-02-22 18:55:29,479 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:29,636 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:55:29,841 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:29,843 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-02-22 18:55:29,848 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:55:29,849 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-ws-si\src\test\resources
+2013-02-22 18:56:36,495 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.krams.tutorial:spring-rabbitmq-producer:1.0.0-SNAPSHOT @ E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\pom.xml.
+2013-02-22 18:56:36,599 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:56:36,717 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+2013-02-22 18:56:36,849 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:56:36,850 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-02-22 18:56:36,853 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:56:36,854 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources
+2013-02-22 18:56:36,854 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rabbitmq-producer
+2013-02-22 18:56:36,855 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rabbitmq-producer
+2013-02-22 18:56:36,870 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:56:38,098 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:56:38,101 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-02-22 18:56:38,109 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-02-22 18:56:38,110 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\projects\si-examples\spring-integration-google-examples\spring-rabbitmq-producer\src\test\resources

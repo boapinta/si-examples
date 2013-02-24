@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.gosmarter.it.enterprise.data.v1.ObjectFactory"/>
+<fullyQualifiedTypeName name="javax.xml.bind.JAXBContext"/>
+<fullyQualifiedTypeName name="org.junit.Ignore"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.FactoryBean"/>
+<fullyQualifiedTypeName name="org.springframework.oxm.jaxb.Jaxb2Marshaller"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+</qualifiedTypeNameHistroy>

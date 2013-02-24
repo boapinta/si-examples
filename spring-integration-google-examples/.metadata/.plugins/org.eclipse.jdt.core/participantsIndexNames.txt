@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+E:\projects\si-examples\spring-integration-google-examples\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2432350401.index
+\spring-rabbitmq-producer\src\main\java
+E:\projects\si-examples\spring-integration-google-examples\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3414022795.index
+\spring-ws-si\src\main\java

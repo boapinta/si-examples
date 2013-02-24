@@ -1,0 +1,5 @@
+package com.goSmarter.webservice.ws;
+
+public class MarshallerFactory {
+
+}
